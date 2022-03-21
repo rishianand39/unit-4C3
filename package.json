@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rishianand39/unit-4C3#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mongoose": "^6.2.7"
+    "mongoose": "^6.2.7",
+    "multer": "^1.4.4"
   }
 }
